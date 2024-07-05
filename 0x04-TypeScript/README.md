@@ -1,0 +1,1 @@
+Typescript project with alx program
